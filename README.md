@@ -8,6 +8,6 @@
 
 topic檔案基本上是在樹梅派上面執行
 
-剩下php檔則是透過xampp去執行主網頁(final.html) 去選擇控制
+剩下php檔則是透過xampp去執行主網頁(final) 去選擇控制
 
 手機則是使用app inventor控制(apk檔案)
