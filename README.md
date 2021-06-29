@@ -1,1 +1,3 @@
-# Embedded_RaspberryPI
+# 嵌入式系統期末專題
+我採用樹梅派做為控制中心 電腦為伺服端 手機為控制 進行同步撥放音樂測試
+測試的影片 : https://youtu.be/5xowj8BiUEs
